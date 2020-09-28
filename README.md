@@ -2,8 +2,9 @@
 <img src="aboutmeheader.PNG" align="center" style="width: 100%" />
 </div>  
   
+<br />
 
-<div align="center">Hi! 👋</div>  
+<div align="center"><h1>Hi! 👋</h1></div>  
   
 
 <div align="center">
