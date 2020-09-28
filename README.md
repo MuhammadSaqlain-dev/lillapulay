@@ -28,7 +28,6 @@
 🎓 I just turned in my last task for my Web Development bootcamp! I'm excited to take the next step on my learning journey and improve my existing projects and start building new ones soon.  
 
 
-<div align="center"><h3>Get in touch</h3></div>  
 <br />
 <div align="center">
 <a href="https://github.com/lillapulay" target="_blank">
@@ -65,13 +64,12 @@
 </div>
 <br />
 
-<div align="center"><h3>Have some stats</h3></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true" align="center" /></div>  
 
 <br />
-<div align="center"><h3>I'm definitely not this HTML oriented... 🤔</h3></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay" align="center" /></div>
 <br />
+<div align="center">I'm definitely not this HTML oriented... 🤔</div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lillapulay&&style=flat-square" align="center" />
