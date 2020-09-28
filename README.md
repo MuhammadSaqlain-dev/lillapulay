@@ -27,7 +27,6 @@
 
 🎓 I just turned in my last task for my Web Development bootcamp! I'm excited to take the next step on my learning journey and improve my existing projects and start building new ones soon.  
 
-<br />
 
 <div align="center"><h3>Get in touch</h3></div>  
 <br />
@@ -43,6 +42,7 @@
 </a>
 </div>  
 
+<br />
 <div align="center"><h3>Some tools I used</h3></div>  
 <br />
 <div align="center">  
