@@ -29,7 +29,7 @@
 
 <br />
 
-<div align="center"><h3>Some tools I used:</h3></div>  
+<div align="center"><h3>Some tools I used</h3></div>  
 <br />
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -53,10 +53,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
+
+
+#### <div align="center">Have some stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true" align="center" /></div>  
 
+
 #### <div align="center">I don't think I'm this HTML oriented, but here goes... 🤔</div>  
-  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay" align="center" /></div>
 <br />
