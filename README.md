@@ -28,3 +28,9 @@
 🎓 I just turned in my last task for my Web Development bootcamp! I'm excited to take the next step on my learning journey and improve my existing projects and start building new ones soon.  
 
 <br />
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true" align="center" style="width: 100%" />
+<br />
