@@ -3,9 +3,9 @@
 </div>  
   
 <br />
-
+<!--
 <div align="center"><h1>Welcome!</h1></div>  
-  
+-->  
 
 <div align="center">
 <img src="https://media2.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" align="center" height="" width="" />
@@ -13,7 +13,8 @@
 
 <br />
 
-I'm Lilla Pulay, a Front-end Developer living in the Netherlands. 👋 
+👋 I'm Lilla Pulay, a Front-end Developer living in the Netherlands. I started studying Web Development in early 2020 after deciding on changing careers from Law. 
+
 
 ⚙️ I’m currently working on improving my portfolio and some of my projects. You can visit me [here](http://lillapulay.dev).  
   
