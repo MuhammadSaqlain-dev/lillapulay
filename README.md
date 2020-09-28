@@ -5,7 +5,7 @@
 <br />
 
 <div align="center"><h1>Welcome!</h1></div>  
-
+<br />
   
 <div align="center">
 <img src="https://media2.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" align="center" height="" width="" />
@@ -29,6 +29,20 @@
 
 <br />
 
+<div align="center"><h3>Get in touch</h3></div>  
+<br />
+<div align="center">
+<a href="https://github.com/lillapulay" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lillapulay" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/lillapulay" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+</div>  
+
 <div align="center"><h3>Some tools I used</h3></div>  
 <br />
 <div align="center">  
@@ -51,12 +65,19 @@
 </div>
 <br /><br />
 
-#### <div align="center">Have some stats</div>
-<br />
+<div align="center"><h3>Have some stats</h3></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true" align="center" /></div>  
 
 <br /><br />
-#### <div align="center">I don't think I'm this HTML oriented, but here goes... 🤔</div>  
-<br />
+<div align="center"><h3>I can't be this HTML oriented... 🤔</h3></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay" align="center" /></div>
 <br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=lillapulay&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Check out this awesome tool I used for some parts: <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
