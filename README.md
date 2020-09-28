@@ -63,14 +63,14 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 <br /><br />
-
+<!--
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true" align="center" /></div>  
 
 <br /><br />
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay" align="center" /></div>
 <br />
 <div align="center">I'm definitely not this HTML oriented... 🤔</div>  
-
+-->
 <br /><br />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lillapulay&&style=flat-square" align="center" />
