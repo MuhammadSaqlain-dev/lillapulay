@@ -13,18 +13,11 @@
 
 <br />
 -->
-👋 I'm a Front-end Developer living in the Netherlands. I started studying Web Development in early 2020 after deciding on changing careers from Law.  
-  
-
-🎓 I just graduated from my Web Development bootcamp! I'm excited to take the next step of my learning journey and improve my existing projects and start building new ones soon.  
-  
-
+👋 I'm a Front-end Developer living in the Netherlands. 
+🖥️ I started studying Web Development in early 2020 after deciding on changing careers from Law.  
+🎓 I just graduated from my Web Development bootcamp! I'm excited to take the next step of my learning journey and improve my existing projects and start building new ones soon.
 ⚙️ I’m currently working on improving my portfolio and some of my projects. You can visit me [here](http://lillapulay.dev).  
-  
-
 📖 I’m starting to learn some Computer Science basics. Even though I picked up a little knowledge on it during my recent course, I want to really get into it.  
-  
-
 📧 You can get in touch with me at pulaylilla@gmail.com. Feel free to say hi!  
 
 <br />
