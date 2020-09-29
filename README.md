@@ -22,7 +22,7 @@
 🎓 I just graduated from my Web Development bootcamp! I'm excited to take the next step of my learning journey and improve my existing projects and start building new ones soon.
 <br />
 <br />
-⚙️ I’m currently working on improving my portfolio and some of my projects. You can visit me [here](http://lillapulay.dev). 
+⚙️ I’m currently working on improving my portfolio and some of my projects. You can visit me [here](http://lillapulay.dev).  
 <br />
 <br />
 📖 I’m starting to learn some Computer Science basics. Even though I picked up a little knowledge on it during my recent course, I want to really get into it.  
