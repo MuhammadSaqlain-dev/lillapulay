@@ -19,13 +19,7 @@
 🖥️ I started studying Web Development in early 2020 after deciding on changing careers from Law.  
 <br />
 <br />
-🎓 I just graduated from my Web Development bootcamp! I'm excited to take the next step of my learning journey and improve my existing projects and start building new ones soon.
-<br />
-<br />
-⚙️ I’m currently working on improving my portfolio and some of my projects. 
-<br />
-<br />
-📖 I’m starting to learn some Computer Science basics. Even though I picked up a little knowledge on it during my recent course, I want to really get into it.  
+🎓 I graduated from my Web Development bootcamp in September 2020. I'm excited to take the next step of my learning journey and currently looking for an opportunity. 
 <br />
 <br />
 📧 You can get in touch with me at pulaylilla@gmail.com. Feel free to say hi!  
