@@ -7,7 +7,7 @@
 
 <br />
 
-👋 I'm a Front-end Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.  
+👋 I'm a Front-end Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.
 <br />
 <br />
 🎓 I studied at CareerFoundry and graduated from my bootcamp in September 2020. I love my new field and I'm passionate about life-long learning, thus trying to make the most out of every day. 
