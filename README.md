@@ -7,27 +7,22 @@
 
 <br />
 
-👋 I'm a Front-end Developer living in the Netherlands. 
+👋 I'm a Front-end Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.  
 <br />
 <br />
-🖥️ I started studying Web Development in early 2020 after deciding on changing careers from Law.  
+🎓 I studied at CareerFoundry and graduated from my bootcamp in September 2020. I love my new field and I'm passionate about life-long learning, thus trying to make the most out of every day. 
 <br />
 <br />
-🎓 I graduated from my Web Development bootcamp in September 2020. I'm excited to take the next step of my learning journey and currently looking for an opportunity. 
+🖥️ Please visit my portfolio [here](https://lillapulay.dev), I just gave it a makeover. :hammer:
 <br />
 <br />
 📧 You can get in touch with me at pulaylilla@gmail.com. Feel free to say hi!  
-
-<br />
 
 
 <br />
 <div align="center">
 <a href="https://linkedin.com/in/lillapulay" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/lillapulay" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
 
