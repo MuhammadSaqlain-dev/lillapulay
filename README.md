@@ -16,7 +16,7 @@
 🖥️ Please visit my portfolio [here](https://lillapulay.dev), I just gave it a makeover. :hammer:
 <br />
 <br />
-📧 You can get in touch with me at pulaylilla@gmail.com. Feel free to say hi!  
+📧 You can get in touch with me via pulaylilla@gmail.com or on LinkedIn. Feel free to say hi!  
 
 
 <br />
