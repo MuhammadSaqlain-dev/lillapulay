@@ -10,6 +10,9 @@
 🎓 I studied at CareerFoundry and graduated from my bootcamp in September 2020. I love my new field and I'm passionate about life-long learning, thus trying to make the most out of every day. 
 <br />
 <br />
+🌱 I’m currently learning Python.
+<br />
+<br />
 🖥️ Please visit my portfolio [here](https://lillapulay.dev), I just gave it a makeover. :hammer:
 <br />
 <br />
@@ -23,37 +26,15 @@
 </a>
 </div>  
 
-<br />
-<div align="center"><h3>Some tools I have experience with</h3></div>  
-<br />
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<br /><br />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-<br /><br />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true" align="center" /></div>  
-
-<br /><br />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lillapulay&&style=flat-square" align="center" />
 </div>  
 
+<br />
 <br />
 
 ----
