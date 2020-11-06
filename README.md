@@ -10,7 +10,7 @@
 🎓 I studied at CareerFoundry and graduated from my bootcamp in September 2020. I love my new field and I'm passionate about life-long learning, thus trying to make the most out of every day. 
 <br />
 <br />
-🌱 I’m currently learning Python.
+🌱 I’m currently working on improving my JavaScript skills and just started studying Python.
 <br />
 <br />
 🖥️ Please visit my portfolio [here](https://lillapulay.dev), I just gave it a makeover. :hammer:
