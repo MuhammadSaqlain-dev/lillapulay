@@ -13,10 +13,10 @@
 🌱 I’m currently working on improving my JavaScript skills and just started studying Python.
 <br />
 <br />
-🖥️ Please visit my portfolio [here](https://lillapulay.dev), I just gave it a makeover. :hammer:
+🖥️ Please visit my [portfolio website](https://lillapulay.dev).
 <br />
 <br />
-📧 You can get in touch with me via pulaylilla@gmail.com or on LinkedIn. Feel free to say hi!  
+📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!  
 
 
 <br />
