@@ -4,13 +4,17 @@
 
 <br />
 
-👋 I'm a Front-end Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.
+👋 I'm a Web Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.
 <br />
 <br />
-🖥️ Please visit my [portfolio website](https://lillapulay.dev).
+💻 I'm currently participating in Integrify's Full Stack Development, DevOps, and Cloud Services course.
 <br />
 <br />
-📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!  
+🌐 [Portfolio](https://lillapulay.dev).
+<br />
+<br />
+📧 You can get in touch with me via pulaylilla@gmail.com or on <a href="https://linkedin.com/in/lillapulay" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />. Feel free to say hi!  
 
 
 <br />
