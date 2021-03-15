@@ -10,7 +10,7 @@
 💻 I'm currently studying in Integrify's Full Stack Development, DevOps, and Cloud Services course.
 <br />
 <br />
-🌐 [Portfolio](https://lillapulay.dev).
+🌐 [Portfolio website](https://lillapulay.dev)
 <br />
 <br />
 📧 You can get in touch with me via pulaylilla@gmail.com or on LinkedIn. Feel free to say hi!  
