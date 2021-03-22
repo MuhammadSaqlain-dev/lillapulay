@@ -13,7 +13,7 @@
 🌐 [Portfolio website](https://lillapulay.dev)
 <br />
 <br />
-📧 You can get in touch with me via pulaylilla@gmail.com or on LinkedIn. Feel free to say hi!  
+📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!  
 
 
 <br />
