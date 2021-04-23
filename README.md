@@ -7,10 +7,10 @@
 👋 I'm a Web Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.
 <br />
 <br />
-💻 I'm currently studying in Integrify's Full Stack Development, DevOps, and Cloud Services course.
+💻 I'm currently participating in Integrify's Full Stack Development, DevOps, and Cloud Services program.
 <br />
 <br />
-🌐 [Portfolio website](https://lillapulay.dev)
+🌐 [Portfolio](https://lillapulay.dev)
 <br />
 <br />
 📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!  
