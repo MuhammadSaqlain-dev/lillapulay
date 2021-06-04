@@ -22,7 +22,10 @@ I'm Lilla Pulay, a Web Developer living in the Netherlands. </h5>
 🌐 Check out my [Portfolio](https://lillapulay.dev) website! :)
 <br />
 <br />
-📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!  
+📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!
+<br />
+<br />
+⚡ Tabs or spaces? Tabs. All the way.
 <br />
 <br />
 
