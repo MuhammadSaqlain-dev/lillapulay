@@ -1,37 +1,53 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" align="center" height="" width="" />
-</div>  
+</div>
 
 <br />
+<h3 align="center"> Greetings!
+<br/>
+<br/>
+I'm Lilla Pulay, a Web Developer living in the Netherlands. </h5>
+<br/>
+<br/>
 
-👋 I'm a Web Developer living in the Netherlands, who started studying Web Development in early 2020 after moving abroad and deciding on a career change from Law.
+👋 I started studying Web Development over a year ago, after moving abroad and deciding on a career change from Law.
 <br />
 <br />
 💻 I'm currently participating in Integrify's Full Stack Development, DevOps, and Cloud Services program.
 <br />
 <br />
-🌐 [Portfolio](https://lillapulay.dev)
+🌱 Lately I've been mostly focusing on TypeScript, (React-)Redux and the DevOps universe.
+<br />
+<br />
+🌐 Check out my [Portfolio](https://lillapulay.dev) website! :)
 <br />
 <br />
 📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!  
-
-
 <br />
 <br />
+
 <div align="center">
 <a href="https://linkedin.com/in/lillapulay" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div> 
 <br />
 <br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillapulay&hide_border=true&layout=compact&theme=solarized-dark" style="width: 100%" />
+</div>
 <br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lillapulay&show_icons=true&count_private=true&hide_border=true&theme=solarized-dark" style="width: 100%" />
+</div>
+
+<br />
+<br />  
 <br />
 <br />
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lillapulay&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=lillapulay&&style=flat-square&color=yellowgreen&label=Visitors:" align="center" />
 </div>  
 <br />
 <br />
