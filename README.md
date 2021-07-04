@@ -3,7 +3,7 @@
 </div>
 
 <br />
-<h3 align="center"> Greetings!
+<h3 align="center"> Hello there!
 <br/>
 <br/>
 I'm Lilla Pulay, a Web Developer living in the Netherlands. </h5>
@@ -16,16 +16,16 @@ I'm Lilla Pulay, a Web Developer living in the Netherlands. </h5>
 💻 I'm currently participating in Integrify's Full Stack Development, DevOps, and Cloud Services program.
 <br />
 <br />
-🌱 Lately I've been mostly focusing on TypeScript, (React-)Redux and the DevOps universe.
+🌱 Currently focusing on AWS and the basics of DevOps. 
 <br />
 <br />
-🌐 Check out my [Portfolio](https://lillapulay.dev) website! :)
+🌐 Check out my [Portfolio](https://lillapulay.dev) website - although an update is defintiely due :)
 <br />
 <br />
 📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!
 <br />
 <br />
-⚡ Tabs or spaces? Tabs. All the way.
+⚡ Tabs or spaces? Tabs. All the way. 
 <br />
 <br />
 
