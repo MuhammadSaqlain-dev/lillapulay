@@ -19,7 +19,7 @@ I'm Lilla Pulay, a Web Developer living in the Netherlands. </h5>
 🌱 Currently focusing on AWS and DevOps basics. 
 <br />
 <br />
-🌐 Check out my [Portfolio](https://lillapulay.dev) website - although an update is defintiely due :)
+🌐 Check out my [Portfolio](https://lillapulay.dev) website - although a new one is in the making :)
 <br />
 <br />
 📧 You can get in touch with me via pulaylilla@gmail.com or LinkedIn. Feel free to say hi!
