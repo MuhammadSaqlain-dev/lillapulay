@@ -3,11 +3,8 @@
 </div>
 
 <br />
-<h3 align="center"> Hello there!
-<br/>
-<br/>
-I'm Lilla Pulay, a Web Developer living in the Netherlands. </h5>
-<br/>
+<h3 align="center"> I'm Lilla Pulay, <br/><br/> a Web Developer living in the Netherlands. </h5>
+
 <br/>
 
 👋 I started studying Web Development over a year ago, after moving abroad and deciding on a career change from Law.
